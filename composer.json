@@ -1,0 +1,18 @@
+{
+    "name": "frontkom/semester-and-year",
+    "description": "A PHP value object representing a semester/year combination",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Frontkom\\SemesterAndYear\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eirik S. Morland",
+            "email": "eirik@morland.no"
+        }
+    ],
+    "require": {}
+}
